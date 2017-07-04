@@ -20,3 +20,6 @@ If you have npm:
   - and so on
 - You can fix them in any order, but we recommend you to start from test 01, then 02, and so on.
 - Once all the tests pass, you'll be an ES6 expert! :)
+
+## Solutions
+I've added the solutions to the solutions branch :)
